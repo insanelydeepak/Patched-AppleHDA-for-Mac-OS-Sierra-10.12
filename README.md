@@ -18,9 +18,8 @@ Collection of Patched AppleHDA to enables audio/sound on Mac OS Sierra 10.12
 
       1 - Download Patched AppleHDA as per your Audio ID's 
       2 - Install using EastKextPro or any Kext Installer
-      3 - Now apply patches from cloverHDA.plist to your Clover config.plist 
-      4 - Add Layout_ID = 13 , 11 or 12 as described in ReadME.txt 
-      5 - Restart 
+      3 - Add Layout_ID = 13 , 11 or 12 as described in ReadME.txt 
+      4 - Restart 
 
 #### Note : for Layout_ID you can use DSDT (HDEF Patch) or Clover (Clover/Config.plist/Devices/Audio/Inject=Audio_ID) or [HDAEnabler's kexts](https://bitbucket.org/insanelydeepak/hdaenablers-applehda-for-hackintosh/downloads)
 
