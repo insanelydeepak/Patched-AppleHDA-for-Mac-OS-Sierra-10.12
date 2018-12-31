@@ -5,6 +5,8 @@
 Collection of Patched AppleHDA to enables audio/sound on Mac OS Sierra 10.12
 
 
+if you like this project, please star it.
+
 ### Requirements : 
       1 - a good Kext Installer or [EastKextPro](http://www.insanelymac.com/forum/files/file/397-easykext-pro-a-minimal-and-super-fast-kext-installer/)
   
